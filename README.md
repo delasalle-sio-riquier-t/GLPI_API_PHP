@@ -1,0 +1,1 @@
+GLPI_API_PHP
